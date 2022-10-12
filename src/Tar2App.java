@@ -1,7 +1,7 @@
 
 import java.util.*;
 public class Tar2App {
-	//final Scanner ASK = new Scanner(System.in); *** PREGUNTAR PORQUE NO APLICA LA CONSTANTE DE ÁMBITO GLOBAL COMO SCANNER ???????????? ***
+	//GESTION DEL FLUJO DE VENTAS DE UN SUPERMERCADO
 	public static void main(String[] args) {
 
 
